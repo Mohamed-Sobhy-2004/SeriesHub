@@ -33,7 +33,7 @@ It fetches real data from the [TVMaze API](https://www.tvmaze.com/api) and displ
 ## 🌐 Live Demo
 
 Check out the project live:  
-[SeriesHub Live](https://yourusername.github.io/serieshub/)  
+[SeriesHub Live](https://mohamed-sobhy-2004.github.io/SeriesHub/)  
 
 
 
@@ -63,4 +63,5 @@ Check out the project live:
 
 - Ensure your GitHub Pages / Netlify link works for Live Demo.  
 - Keep the project updated with new shows or features to show active development.  
+
 - Add Pagination in future updates for better performance with large datasets.
