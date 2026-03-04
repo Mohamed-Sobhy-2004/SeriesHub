@@ -59,22 +59,28 @@ header a{
     font-size: 2em;
     font-weight: 800;
 }
-
-header input{
+#Logo span{
+    color: #358bfc;
+}
+#search,#search2{
     background-color: #272727;
     outline: none;
     border: none;
     padding: 5px 15px;
     border-radius: 5px;
     color: white;
-    
 }
-
+#search2{
+    display: none;
+}
 
 .darkmood{
     display: flex;
     align-items: center;
     margin-left: 50px;
+}
+.darkmood span{
+    color: orange;
 }
 .sbox{
     margin-left: 10px;
@@ -179,7 +185,7 @@ p{
     header{
         padding: 10px;
     }
-    nav{
+    #search{
         display: none;
     }
     .sk-card {
@@ -189,7 +195,12 @@ p{
     #Logo{
         font-size: 1em;
     }
-    header input{
-        padding: 5px 10px;
+    #search2{
+        width: 90%;
+        background-color: #333;
+        margin-left: 5%;
+        display: block;
     }
+    
+    
 }
