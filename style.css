@@ -186,4 +186,10 @@ p{
         width: 90%;
         height: 250px;
     }
+    #Logo{
+        font-size: 1em;
+    }
+    header input{
+        padding: 5px 10px;
+    }
 }
